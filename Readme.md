@@ -212,14 +212,6 @@ Database + File Storage
 - Azure Blob
 - Google Cloud Storage
 
-### Deployment
-
-- Docker
-- Docker Compose
-- Kubernetes
-- Nginx
-
----
 
 # Folder Structure
 
